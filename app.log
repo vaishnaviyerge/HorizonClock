@@ -1,0 +1,619 @@
+2024-07-29T17:33:39.530+05:30  INFO 4224 --- [main] c.e.TimeApp.TimeAppApplicationTests      : Starting TimeAppApplicationTests using Java 17.0.12 with PID 4224 (started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:33:39.547+05:30  INFO 4224 --- [main] c.e.TimeApp.TimeAppApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:33:40.608+05:30  INFO 4224 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:33:40.987+05:30  INFO 4224 --- [main] c.e.TimeApp.TimeAppApplicationTests      : Started TimeAppApplicationTests in 1.786 seconds (process running for 3.716)
+2024-07-29T17:36:07.953+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1500 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:36:07.958+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:36:08.028+05:30  INFO 1500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:36:08.030+05:30  INFO 1500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:36:09.147+05:30  INFO 1500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8889 (http)
+2024-07-29T17:36:09.169+05:30  INFO 1500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:36:09.174+05:30  INFO 1500 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:36:09.256+05:30  INFO 1500 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:36:09.258+05:30  INFO 1500 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1225 ms
+2024-07-29T17:36:09.408+05:30  INFO 1500 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:36:09.704+05:30  INFO 1500 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:36:09.773+05:30  INFO 1500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8889 (http) with context path '/'
+2024-07-29T17:36:09.789+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 2.226 seconds (process running for 2.621)
+2024-07-29T17:36:21.041+05:30  INFO 1500 --- [http-nio-8889-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T17:36:21.043+05:30  INFO 1500 --- [http-nio-8889-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T17:36:21.047+05:30  INFO 1500 --- [http-nio-8889-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-07-29T17:40:54.033+05:30  INFO 1500 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:40:54.133+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1500 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:40:54.135+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:40:54.592+05:30  INFO 1500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8880 (http)
+2024-07-29T17:40:54.597+05:30  INFO 1500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:40:54.603+05:30  INFO 1500 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:40:54.651+05:30  INFO 1500 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:40:54.653+05:30  INFO 1500 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 512 ms
+2024-07-29T17:40:54.816+05:30  INFO 1500 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:40:55.047+05:30  INFO 1500 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:40:55.066+05:30  INFO 1500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8880 (http) with context path '/'
+2024-07-29T17:40:55.075+05:30  INFO 1500 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.976 seconds (process running for 287.907)
+2024-07-29T17:40:55.087+05:30  INFO 1500 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:40:57.797+05:30  INFO 19200 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 19200 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:40:57.801+05:30  INFO 19200 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:40:57.881+05:30  INFO 19200 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:40:57.882+05:30  INFO 19200 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:40:58.975+05:30  INFO 19200 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8880 (http)
+2024-07-29T17:40:58.992+05:30  INFO 19200 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:40:58.994+05:30  INFO 19200 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:40:59.094+05:30  INFO 19200 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:40:59.095+05:30  INFO 19200 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1212 ms
+2024-07-29T17:40:59.247+05:30  INFO 19200 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:40:59.561+05:30  WARN 19200 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T17:40:59.588+05:30  WARN 19200 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T17:40:59.621+05:30  INFO 19200 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T17:40:59.673+05:30 ERROR 19200 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8880 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8880 or configure this application to listen on another port.
+
+2024-07-29T17:41:21.149+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 18756 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:41:21.154+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:41:21.229+05:30  INFO 18756 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:41:21.230+05:30  INFO 18756 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:41:22.309+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9876 (http)
+2024-07-29T17:41:22.344+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:41:22.346+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:41:22.446+05:30  INFO 18756 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:41:22.447+05:30  INFO 18756 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1216 ms
+2024-07-29T17:41:22.618+05:30  INFO 18756 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:41:22.927+05:30  INFO 18756 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:41:22.984+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9876 (http) with context path '/'
+2024-07-29T17:41:23.013+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 2.255 seconds (process running for 2.63)
+2024-07-29T17:41:41.840+05:30  INFO 18756 --- [http-nio-9876-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T17:41:41.842+05:30  INFO 18756 --- [http-nio-9876-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T17:41:41.845+05:30  INFO 18756 --- [http-nio-9876-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-07-29T17:48:22.679+05:30  INFO 18756 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:48:22.763+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 18756 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:48:22.765+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:48:23.017+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9876 (http)
+2024-07-29T17:48:23.019+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:48:23.020+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:48:23.039+05:30  INFO 18756 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:48:23.040+05:30  INFO 18756 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 270 ms
+2024-07-29T17:48:23.068+05:30  INFO 18756 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:48:23.156+05:30  INFO 18756 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:48:23.179+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9876 (http) with context path '/'
+2024-07-29T17:48:23.185+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.45 seconds (process running for 422.802)
+2024-07-29T17:48:23.189+05:30  INFO 18756 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:48:30.668+05:30  INFO 18756 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:48:30.758+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 18756 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:48:30.760+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:48:30.915+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9877 (http)
+2024-07-29T17:48:30.916+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:48:30.917+05:30  INFO 18756 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:48:30.932+05:30  INFO 18756 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:48:30.932+05:30  INFO 18756 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 170 ms
+2024-07-29T17:48:30.953+05:30  INFO 18756 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:48:31.083+05:30  INFO 18756 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:48:31.139+05:30  INFO 18756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9877 (http) with context path '/'
+2024-07-29T17:48:31.157+05:30  INFO 18756 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.416 seconds (process running for 430.774)
+2024-07-29T17:48:31.168+05:30  INFO 18756 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:48:35.052+05:30  INFO 15732 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 15732 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:48:35.056+05:30  INFO 15732 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:48:35.143+05:30  INFO 15732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:48:35.145+05:30  INFO 15732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:48:36.245+05:30  INFO 15732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9877 (http)
+2024-07-29T17:48:36.261+05:30  INFO 15732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:48:36.263+05:30  INFO 15732 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:48:36.359+05:30  INFO 15732 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:48:36.360+05:30  INFO 15732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1212 ms
+2024-07-29T17:48:36.500+05:30  INFO 15732 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:48:36.803+05:30  WARN 15732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T17:48:36.830+05:30  WARN 15732 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T17:48:36.858+05:30  INFO 15732 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T17:48:36.892+05:30 ERROR 15732 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9877 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9877 or configure this application to listen on another port.
+
+2024-07-29T17:48:53.219+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1972 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:48:53.223+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:48:53.288+05:30  INFO 1972 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:48:53.289+05:30  INFO 1972 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:48:54.439+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9879 (http)
+2024-07-29T17:48:54.452+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:48:54.453+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:48:54.540+05:30  INFO 1972 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:48:54.541+05:30  INFO 1972 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1251 ms
+2024-07-29T17:48:54.706+05:30  INFO 1972 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:48:54.983+05:30  INFO 1972 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:48:55.044+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9879 (http) with context path '/'
+2024-07-29T17:48:55.064+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 2.265 seconds (process running for 2.617)
+2024-07-29T17:49:11.743+05:30  INFO 1972 --- [http-nio-9879-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T17:49:11.745+05:30  INFO 1972 --- [http-nio-9879-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T17:49:11.749+05:30  INFO 1972 --- [http-nio-9879-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2024-07-29T17:53:58.707+05:30  INFO 1972 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:53:58.797+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1972 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:53:58.798+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:53:58.985+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9879 (http)
+2024-07-29T17:53:58.987+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:53:58.988+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:53:59.001+05:30  INFO 1972 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:53:59.003+05:30  INFO 1972 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 202 ms
+2024-07-29T17:53:59.030+05:30  INFO 1972 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:53:59.086+05:30  INFO 1972 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:53:59.100+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9879 (http) with context path '/'
+2024-07-29T17:53:59.105+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.333 seconds (process running for 306.658)
+2024-07-29T17:53:59.110+05:30  INFO 1972 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:54:05.594+05:30  INFO 1972 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:54:05.705+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1972 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:54:05.707+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:54:05.895+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8709 (http)
+2024-07-29T17:54:05.897+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:54:05.898+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:54:05.914+05:30  INFO 1972 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:54:05.915+05:30  INFO 1972 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 204 ms
+2024-07-29T17:54:06.003+05:30  INFO 1972 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:54:06.090+05:30  INFO 1972 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:54:06.102+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8709 (http) with context path '/'
+2024-07-29T17:54:06.106+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.435 seconds (process running for 313.66)
+2024-07-29T17:54:06.109+05:30  INFO 1972 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:54:14.276+05:30  INFO 14264 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 14264 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:54:14.280+05:30  INFO 14264 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:54:14.352+05:30  INFO 14264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:54:14.353+05:30  INFO 14264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:54:15.494+05:30  INFO 14264 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8709 (http)
+2024-07-29T17:54:15.513+05:30  INFO 14264 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:54:15.518+05:30  INFO 14264 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:54:15.618+05:30  INFO 14264 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:54:15.620+05:30  INFO 14264 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1264 ms
+2024-07-29T17:54:15.767+05:30  INFO 14264 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:54:16.086+05:30  WARN 14264 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T17:54:16.121+05:30  WARN 14264 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T17:54:16.150+05:30  INFO 14264 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T17:54:16.187+05:30 ERROR 14264 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8709 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8709 or configure this application to listen on another port.
+
+2024-07-29T17:54:27.814+05:30  INFO 1972 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T17:54:27.911+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 1972 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:54:27.912+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:54:28.078+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8719 (http)
+2024-07-29T17:54:28.079+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:54:28.080+05:30  INFO 1972 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:54:28.092+05:30  INFO 1972 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:54:28.093+05:30  INFO 1972 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 178 ms
+2024-07-29T17:54:28.113+05:30  INFO 1972 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:54:28.155+05:30  INFO 1972 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:54:28.165+05:30  INFO 1972 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8719 (http) with context path '/'
+2024-07-29T17:54:28.169+05:30  INFO 1972 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.289 seconds (process running for 335.722)
+2024-07-29T17:54:28.171+05:30  INFO 1972 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T17:54:31.223+05:30  INFO 20264 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 20264 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in d:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:54:31.226+05:30  INFO 20264 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:54:31.302+05:30  INFO 20264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:54:31.304+05:30  INFO 20264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:54:32.403+05:30  INFO 20264 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8719 (http)
+2024-07-29T17:54:32.419+05:30  INFO 20264 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:54:32.420+05:30  INFO 20264 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:54:32.495+05:30  INFO 20264 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:54:32.497+05:30  INFO 20264 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1192 ms
+2024-07-29T17:54:32.645+05:30  INFO 20264 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:54:32.945+05:30  WARN 20264 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T17:54:32.985+05:30  WARN 20264 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T17:54:33.020+05:30  INFO 20264 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T17:54:33.071+05:30 ERROR 20264 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8719 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8719 or configure this application to listen on another port.
+
+2024-07-29T17:54:47.855+05:30  INFO 15516 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 15516 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:54:47.860+05:30  INFO 15516 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:54:47.932+05:30  INFO 15516 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:54:47.933+05:30  INFO 15516 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:54:49.087+05:30  INFO 15516 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 99999 (http)
+2024-07-29T17:54:49.107+05:30  INFO 15516 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:54:49.108+05:30  INFO 15516 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:54:49.194+05:30  INFO 15516 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:54:49.196+05:30  INFO 15516 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1260 ms
+2024-07-29T17:54:49.341+05:30  INFO 15516 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:54:49.605+05:30  INFO 15516 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:54:49.627+05:30  WARN 15516 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T17:54:49.647+05:30  INFO 15516 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T17:54:49.686+05:30 ERROR 15516 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:288) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:469) ~[spring-context-6.1.10.jar:6.1.10]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:257) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:202) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:981) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.1.jar:3.3.1]
+	at com.example.TimeApp.TimeAppApplication.main(TimeAppApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.1.jar:3.3.1]
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:251) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.web.servlet.context.WebServerStartStopLifecycle.start(WebServerStartStopLifecycle.java:44) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:285) ~[spring-context-6.1.10.jar:6.1.10]
+	... 18 common frames omitted
+Caused by: java.lang.IllegalArgumentException: standardService.connector.startFailed
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:222) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:310) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:236) ~[spring-boot-3.3.1.jar:3.3.1]
+	... 20 common frames omitted
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1047) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:219) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	... 22 common frames omitted
+Caused by: java.lang.IllegalArgumentException: port out of range:99999
+	at java.base/java.net.InetSocketAddress.checkPort(InetSocketAddress.java:152) ~[na:na]
+	at java.base/java.net.InetSocketAddress.<init>(InetSocketAddress.java:197) ~[na:na]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:238) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1390) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:643) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1044) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	... 24 common frames omitted
+
+2024-07-29T17:55:11.137+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10916 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T17:55:11.142+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T17:55:11.227+05:30  INFO 10916 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T17:55:11.229+05:30  INFO 10916 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T17:55:12.335+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 2698 (http)
+2024-07-29T17:55:12.353+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T17:55:12.356+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T17:55:12.461+05:30  INFO 10916 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T17:55:12.463+05:30  INFO 10916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1233 ms
+2024-07-29T17:55:12.603+05:30  INFO 10916 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T17:55:12.866+05:30  INFO 10916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T17:55:12.923+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 2698 (http) with context path '/'
+2024-07-29T17:55:12.947+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 2.212 seconds (process running for 2.61)
+2024-07-29T17:55:26.285+05:30  INFO 10916 --- [http-nio-2698-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T17:55:26.286+05:30  INFO 10916 --- [http-nio-2698-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T17:55:26.291+05:30  INFO 10916 --- [http-nio-2698-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2024-07-29T18:15:13.166+05:30  INFO 10916 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T18:15:13.410+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10916 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:15:13.412+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:15:13.943+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 2698 (http)
+2024-07-29T18:15:13.948+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:15:13.950+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:15:13.971+05:30  INFO 10916 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:15:13.972+05:30  INFO 10916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 553 ms
+2024-07-29T18:15:13.982+05:30  WARN 10916 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+2024-07-29T18:15:13.984+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-07-29T18:15:13.992+05:30  INFO 10916 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T18:15:14.033+05:30 ERROR 10916 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1319) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.1.jar:3.3.1]
+	at com.example.TimeApp.TimeAppApplication.main(TimeAppApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.1.jar:3.3.1]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:221) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:88) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1313) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "com.example.TimeApp.controller"
+
+	at com.example.TimeApp.controller.TimeController.<init>(TimeController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:195) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 24 common frames omitted
+
+2024-07-29T18:15:34.803+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10916 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:15:34.804+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:15:34.949+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 2698 (http)
+2024-07-29T18:15:34.951+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:15:34.952+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:15:34.969+05:30  INFO 10916 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:15:34.970+05:30  INFO 10916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 162 ms
+2024-07-29T18:15:34.993+05:30  INFO 10916 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:15:35.044+05:30  INFO 10916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T18:15:35.055+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 2698 (http) with context path '/'
+2024-07-29T18:15:35.059+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.281 seconds (process running for 1224.723)
+2024-07-29T18:15:35.062+05:30  INFO 10916 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T18:16:05.912+05:30  INFO 10916 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T18:16:05.989+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10916 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:16:05.990+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:16:06.153+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 2692 (http)
+2024-07-29T18:16:06.154+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:16:06.155+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:16:06.168+05:30  INFO 10916 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:16:06.169+05:30  INFO 10916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 176 ms
+2024-07-29T18:16:06.196+05:30  INFO 10916 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:16:06.238+05:30  INFO 10916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T18:16:06.246+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 2692 (http) with context path '/'
+2024-07-29T18:16:06.254+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.29 seconds (process running for 1255.917)
+2024-07-29T18:16:06.256+05:30  INFO 10916 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T18:16:11.754+05:30  INFO 7212 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 7212 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:16:11.757+05:30  INFO 7212 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:16:11.836+05:30  INFO 7212 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T18:16:11.837+05:30  INFO 7212 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T18:16:12.956+05:30  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 2692 (http)
+2024-07-29T18:16:12.978+05:30  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:16:12.981+05:30  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:16:13.072+05:30  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:16:13.073+05:30  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1233 ms
+2024-07-29T18:16:13.216+05:30  INFO 7212 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:16:13.479+05:30  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T18:16:13.505+05:30  WARN 7212 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T18:16:13.536+05:30  INFO 7212 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T18:16:13.569+05:30 ERROR 7212 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 2692 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 2692 or configure this application to listen on another port.
+
+2024-07-29T18:16:23.919+05:30  INFO 10916 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-29T18:16:24.000+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10916 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:16:24.004+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:16:24.170+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7692 (http)
+2024-07-29T18:16:24.172+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:16:24.172+05:30  INFO 10916 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:16:24.187+05:30  INFO 10916 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:16:24.188+05:30  INFO 10916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 179 ms
+2024-07-29T18:16:24.206+05:30  INFO 10916 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:16:24.255+05:30  INFO 10916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T18:16:24.263+05:30  INFO 10916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7692 (http) with context path '/'
+2024-07-29T18:16:24.268+05:30  INFO 10916 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.296 seconds (process running for 1273.931)
+2024-07-29T18:16:24.270+05:30  INFO 10916 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T18:16:26.115+05:30  INFO 13532 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 13532 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in d:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:16:26.118+05:30  INFO 13532 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:16:26.176+05:30  INFO 13532 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T18:16:26.180+05:30  INFO 13532 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T18:16:27.311+05:30  INFO 13532 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7692 (http)
+2024-07-29T18:16:27.329+05:30  INFO 13532 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:16:27.330+05:30  INFO 13532 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:16:27.414+05:30  INFO 13532 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:16:27.415+05:30  INFO 13532 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1233 ms
+2024-07-29T18:16:27.580+05:30  INFO 13532 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:16:27.881+05:30  WARN 13532 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-29T18:16:27.913+05:30  WARN 13532 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-29T18:16:27.938+05:30  INFO 13532 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T18:16:27.969+05:30 ERROR 13532 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 7692 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 7692 or configure this application to listen on another port.
+
+2024-07-29T18:16:48.371+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10140 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:16:48.374+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:16:48.455+05:30  INFO 10140 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-29T18:16:48.456+05:30  INFO 10140 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-29T18:16:49.620+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 4455 (http)
+2024-07-29T18:16:49.636+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:16:49.638+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:16:49.742+05:30  INFO 10140 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:16:49.744+05:30  INFO 10140 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1287 ms
+2024-07-29T18:16:49.918+05:30  INFO 10140 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:16:50.210+05:30  INFO 10140 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T18:16:50.266+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 4455 (http) with context path '/'
+2024-07-29T18:16:50.282+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 2.308 seconds (process running for 2.662)
+2024-07-29T18:17:03.626+05:30  INFO 10140 --- [http-nio-4455-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T18:17:03.628+05:30  INFO 10140 --- [http-nio-4455-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T18:17:03.631+05:30  INFO 10140 --- [http-nio-4455-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-07-29T18:22:36.960+05:30  INFO 10140 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-07-29T18:22:37.061+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10140 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:22:37.062+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:22:37.263+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 4455 (http)
+2024-07-29T18:22:37.264+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:22:37.266+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:22:37.283+05:30  INFO 10140 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:22:37.284+05:30  INFO 10140 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 216 ms
+2024-07-29T18:22:37.294+05:30  WARN 10140 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+2024-07-29T18:22:37.299+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-07-29T18:22:37.310+05:30  INFO 10140 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T18:22:37.375+05:30 ERROR 10140 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1319) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.1.jar:3.3.1]
+	at com.example.TimeApp.TimeAppApplication.main(TimeAppApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.1.jar:3.3.1]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:221) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:88) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1313) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "com.example.TimeApp.controller"
+
+	at com.example.TimeApp.controller.TimeController.<init>(TimeController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:195) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 24 common frames omitted
+
+2024-07-29T18:22:38.863+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10140 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:22:38.865+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:22:39.295+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 4455 (http)
+2024-07-29T18:22:39.298+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:22:39.299+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:22:39.368+05:30  INFO 10140 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:22:39.369+05:30  INFO 10140 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 498 ms
+2024-07-29T18:22:39.398+05:30  WARN 10140 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+2024-07-29T18:22:39.401+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-07-29T18:22:39.406+05:30  INFO 10140 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-29T18:22:39.418+05:30 ERROR 10140 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'timeController' defined in file [D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes\com\example\TimeApp\controller\TimeController.class]: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1319) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.1.jar:3.3.1]
+	at com.example.TimeApp.TimeAppApplication.main(TimeAppApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.1.jar:3.3.1]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.TimeApp.controller.TimeController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:221) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:88) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1313) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "com.example.TimeApp.controller"
+
+	at com.example.TimeApp.controller.TimeController.<init>(TimeController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:195) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 24 common frames omitted
+
+2024-07-29T18:22:45.001+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Starting TimeAppApplication using Java 17.0.12 with PID 10140 (D:\Documents\Projects\Resume-proj\JAVA\TimeApp\target\classes started by Vaishnavi in D:\Documents\Projects\Resume-proj\JAVA\TimeApp)
+2024-07-29T18:22:45.003+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T18:22:45.321+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 4455 (http)
+2024-07-29T18:22:45.324+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T18:22:45.327+05:30  INFO 10140 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-29T18:22:45.352+05:30  INFO 10140 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-07-29T18:22:45.354+05:30  INFO 10140 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 341 ms
+2024-07-29T18:22:45.399+05:30  INFO 10140 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-29T18:22:45.505+05:30  INFO 10140 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-29T18:22:45.519+05:30  INFO 10140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 4455 (http) with context path '/'
+2024-07-29T18:22:45.534+05:30  INFO 10140 --- [restartedMain] com.example.TimeApp.TimeAppApplication   : Started TimeAppApplication in 0.591 seconds (process running for 357.914)
+2024-07-29T18:22:45.538+05:30  INFO 10140 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-07-29T18:22:48.032+05:30  INFO 10140 --- [http-nio-4455-exec-1] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T18:22:48.033+05:30  INFO 10140 --- [http-nio-4455-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T18:22:48.036+05:30  INFO 10140 --- [http-nio-4455-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
